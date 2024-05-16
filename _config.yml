@@ -116,7 +116,7 @@ author:
   avatar           : "/assets/images/Profilbild.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Germany"
-  email            : "ajmenzel94@hotmail.de
+  email            : "ajmenzel94@hotmail.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
